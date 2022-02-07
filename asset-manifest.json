@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie-clone/static/js/main.5fad6831.js",
+    "index.html": "/movie-clone/index.html",
+    "main.5fad6831.js.map": "/movie-clone/static/js/main.5fad6831.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5fad6831.js"
+  ]
+}
