@@ -25,8 +25,12 @@ export default function Detail() {
       ) : (
         <div>
           <h1>{movie.title}</h1>
-          <img src={movie.medium_cover_image} />
-          <p>{movie.description_full}</p>
+          <div>
+            <img src={movie.medium_cover_image} />
+          </div>
+          <div>
+            <p>{movie.description_full}</p>
+          </div>
         </div>
       )}
     </div>
